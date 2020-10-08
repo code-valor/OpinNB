@@ -1,4 +1,4 @@
 *.ejs linguist-detectable=false
 *.html linguist-detectable=false
-*.js            text
+*.js text
 * text=auto
